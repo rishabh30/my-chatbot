@@ -1,4 +1,4 @@
-functional requierments- 
+functional requirements- 
 
 /start_session - creates a session_id
 request- {
@@ -48,4 +48,4 @@ Non-functional requirements-
 
 // The average consumer sends 72 messages per day 
 // Average 1 message size ~100 bytes + ~50 bytes for remaining fields in the message table
-// Daily active users 1 million -> ~12GB per day 
+// Daily active users 1 million -> ~12GB per day ~4.4TB/year

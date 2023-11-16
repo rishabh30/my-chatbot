@@ -1,13 +1,13 @@
+<img width="442" alt="image" src="https://github.com/rishabh30/my-chatbot/assets/39810768/81d90812-1701-4297-8ea5-6c15ce908338">
 # My Chatbot
 
-This is a chatbot project written in Go that uses websockets to serve chats and includes HTML code for the frontend.
+This is a prototype for a chatbot written in Go that allows users to save and retrieve images. Also, is enables the chatbot to discuss with the user using off-the-shelf language model solutions. 
 
 ## Project Structure
 
 The project has the following files:
 
 - `public/index.html`: This file contains the HTML code for the chatbot's frontend.
-- `public/script.js`: This file contains the JavaScript code for the chatbot's frontend.
 - `main.go`: This file is the entry point of the application. It creates an instance of the chatbot and sets up the websocket server.
 - `go.mod`: This file is the module definition file for the project. It lists the dependencies and the version of Go used.
 - `go.sum`: This file contains the expected cryptographic checksums of the content of specific module versions.
